@@ -1,4 +1,5 @@
 # GSE-Scheduler
+![GSE-Scheduler1 5](https://user-images.githubusercontent.com/74521072/124426921-ad31da80-dda5-11eb-8a42-56601b744ae0.png)
 ## 스케줄러 적용 Namespace 확대
 - Default -> Any Namespace 
 ## 로컬 스케줄러 관련 POD 생성을 위한 도커 생성  
