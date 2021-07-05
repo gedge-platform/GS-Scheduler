@@ -13,7 +13,8 @@
 ## 새로운 로컬 스케줄러 정책
 - Low latency 확대
     - Node -> Pod 
-# 2LT-Scheduler
+# 2LT-Scheduler(진행중)
+![GSE-2LT Scheduler](https://user-images.githubusercontent.com/74521072/124427893-f7678b80-dda6-11eb-986a-a340026a0a72.png)
 ## 모니터링 모듈 독립성 제공 
 - 타 모듈과 결합이 용이한 형태로 개발
 - GPU 자원 처리 방안 구체화
